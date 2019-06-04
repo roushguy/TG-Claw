@@ -14,7 +14,7 @@
 	growthstages = 3
 	production = 20
 	maturation = 20
-
+	genes = list(/datum/plant_gene/trait/repeated_harvest)
 
 /obj/item/reagent_containers/food/snacks/grown/feracactus
 	seed = /obj/item/seeds/feracactus
