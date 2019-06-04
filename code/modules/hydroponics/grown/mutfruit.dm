@@ -14,6 +14,7 @@
 	growthstages = 3
 	production = 5
 	maturation = 5
+	genes = list(/datum/plant_gene/trait/repeated_harvest)
 
 /obj/item/reagent_containers/food/snacks/grown/mutfruit
 	seed = /obj/item/seeds/mutfruit
